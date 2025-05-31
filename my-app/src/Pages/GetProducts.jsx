@@ -7,9 +7,10 @@ const GetProducts = () => {
   return (
     <div>
       <div className="nav">
-        <h1>Digital Shop</h1>
+        <h1>DigitalNEST Shop</h1>
       </div>
       <div className="cards-container">
+        <h1>Products</h1>
         <ProductCards className="productCards" />
       </div>
     </div>
